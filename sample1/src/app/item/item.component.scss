@@ -1,0 +1,29 @@
+.box {
+    width: 100px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    margin-right: 20px;
+
+    .title {
+        font-size: 16px;
+        font-weight: 700;
+    }
+
+    .description {
+        font-size: 12px;
+        font-weight: 300;
+    }
+}
+
+.red {
+    background: red;
+}
+
+.green {
+    background: green;
+}
+
+.blue {
+    background: blue;
+}
